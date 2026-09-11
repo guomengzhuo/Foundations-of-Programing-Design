@@ -94,6 +94,7 @@ Lecture slides correspond to the materials discussed in class.
 | Lecture | Material |
 |---|---|
 | Course 1 | [Course 1 - English Slides](./Course_1_English.pptx) |
+| Course 2 | [Course 2 - English Slides](./Course_2%20-English-jiahui.pptx) |
 
 Additional slides will be uploaded as the course progresses.
 
@@ -103,11 +104,14 @@ Additional slides will be uploaded as the course progresses.
 
 The supplementary readings provide additional explanations, technical details, examples, and practical guidance that may not be covered completely during class.
 
-| Topic | Material |
+| Course | Material |
 |---|---|
-| Python Environment and Conda | [Course 1 - Conda Reading Materials](./course%201%20conda%20reading%20materials.pdf) |
+| Course 1 | [Conda and Python Environment - Reading Materials](./course%201%20conda%20reading%20materials.pdf) |
+| Course 2 | [Course 2 - Supplementary Reading Materials](./2026%20course%202%20-%20reading%20materials.pdf) |
 
 These materials are intended to complement the lecture slides rather than replace them.
+
+Some reading materials may contain more details than are required during class. Students are encouraged to use them for reviewing difficult concepts, exploring examples, and learning topics in greater depth.
 
 ---
 
@@ -218,6 +222,13 @@ The goal of this course is not simply to remember Python syntax, but to graduall
 This repository will be updated throughout the course.
 
 New lecture slides, supplementary readings, examples, and other learning materials will be added when they become available.
+
+### Latest Update
+
+**September 11, 2026**
+
+- Added **Course 2 English lecture slides**.
+- Added **Course 2 supplementary reading materials**.
 
 Please check the repository regularly to make sure you are using the latest version of the course materials.
 
